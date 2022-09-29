@@ -1,4 +1,4 @@
-# bird-func-chack-sandwich
+# a bird function to check there is no as-loop in the path
 
 Psudo code
 ```
